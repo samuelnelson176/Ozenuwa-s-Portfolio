@@ -47,6 +47,16 @@ header{
     margin: 0;
 }
 
+.body{
+    max-width: 1500px;
+    margin: auto;
+}
+
+.header{
+    max-width: 1500px;
+    display: flex;
+    margin: auto;
+}
 #vec-1{
     background-color: white;
     border-radius:50%;
